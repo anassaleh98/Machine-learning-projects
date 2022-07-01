@@ -161,12 +161,9 @@ plt.scatter(df_train[df_train['TotalBsmtSF']>0]['TotalBsmtSF'], df_train[df_trai
 #convert categorical variable into dummy
 df_train = pd.get_dummies(df_train)
 
-#-------------------------------------
-#Import Libraries
+#--------------------------
 
 from sklearn.linear_model import LinearRegression
-
-print("----------------")
 
 newdf = df_train.copy()
 
@@ -181,7 +178,6 @@ x_train
 LinearRegressionModel = LinearRegression(fit_intercept=True, normalize=True,copy_X=True,n_jobs=-1)
 LinearRegressionModel.fit(x_train, y_train)
 
-#Calculating Details
 print('Linear Regression Train Score is : ' , LinearRegressionModel.score(x_train, y_train))
 
 
