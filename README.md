@@ -18,7 +18,7 @@ Each project is designed to be **educational**, providing **clear examples and c
 The project includes a comprehensive **data pipeline** and **predictive model** for estimating trip durations using **NYC taxi data**. The project involves **Exploratory Data Analysis (EDA)**, **feature extraction** (e.g., distance metrics, time features), **location clustering**, and the development of a **Ridge regression model**. The pipeline is implemented using **Python, Pandas, and Scikit-learn**, offering insights into trip durations and a scalable approach for predictive modeling.
 
 ### **Code & EDA:**
-- **[Code and EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/nyc-taxi-trip-duration/Code)**
+- **[Code and EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/1-%20nyc-taxi-trip-duration/Code)**
 
 ### **Data:**
 - **[NYC Taxi Trip Duration Data on Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data)**
@@ -28,10 +28,10 @@ The project includes a comprehensive **data pipeline** and **predictive model** 
 This project constructs a **classification model** using **logistic regression** to **predict match outcomes** for the **FIFA World Cup 2022**. The model is built through **detailed data preprocessing**, **feature engineering**, and **model evaluation** to classify match results as **win, draw, or loss**.
 
 ### **EDA:**
-- **[EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/FIFA-World-cup-2022-predictions/Code)**
+- **[EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/2-%20FIFA-World-cup-2022-predictions/Code)**
 
 ### **Data:**
-- **[Data](https://github.com/anassaleh98/Machine-learning-projects/tree/main/FIFA-World-cup-2022-predictions/Data)**
+- **[Data](https://github.com/anassaleh98/Machine-learning-projects/tree/main/2-%20FIFA-World-cup-2022-predictions/Data)**
 
 ### **Kaggle:**
 - **[fifa-world-cup-2022-predictions](https://www.kaggle.com/code/anassaleh98/fifa-world-cup-2022-predictions)**
@@ -41,10 +41,10 @@ This project constructs a **classification model** using **logistic regression**
 This project predicts the survival of **Titanic passengers** using **classification algorithms** such as **KNN, Decision Trees, SVM, and MLP**. It includes **data preprocessing**, **feature engineering**, and **model evaluation**, with results submitted for **Kaggle's Titanic competition**.
 
 ### **EDA:**
-- **[EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/Titanic/code)**
+- **[EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/3-%20Titanic/code)**
 
 ### **Data:**
-- **[Data](https://github.com/anassaleh98/Machine-learning-projects/tree/main/Titanic/Data)**
+- **[Data](https://github.com/anassaleh98/Machine-learning-projects/tree/main/3-%20Titanic/Data)**
 
 ### **Kaggle:**
 - **[titanic-solution](https://www.kaggle.com/code/anassaleh98/titanic-solution)**
