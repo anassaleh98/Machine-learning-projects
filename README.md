@@ -15,8 +15,10 @@ Each project is designed to be **educational**, providing **clear examples and c
 
 ## **1- NYC Taxi Trip Duration**
 
-The project includes a comprehensive **data pipeline** and **predictive model** for estimating trip durations using **NYC taxi data**. The project involves **Exploratory Data Analysis (EDA)**, **feature extraction** (e.g., distance metrics, time features), **location clustering**, and the development of a **Ridge regression model**. The pipeline is implemented using **Python, Pandas, and Scikit-learn**, offering insights into trip durations and a scalable approach for predictive modeling.
+- The project includes a comprehensive **data pipeline** and **predictive model** for estimating trip durations using **NYC taxi data**. The project involves **Exploratory Data Analysis (EDA)**, **feature extraction** (e.g., distance metrics, time features), **location clustering**, and the development of a **Ridge regression model**. The pipeline is implemented using **Python, Pandas, and Scikit-learn**, offering insights into trip durations and a scalable approach for predictive modeling.
 
+### Accuracy
+- The model achieved an accuracy of **74.8%** on the **training** data. I tested the model on **hidden data**, and it achieved an accuracy of **71.5%**.
 ### **Code & EDA:**
 - **[Code and EDA Repository](https://github.com/anassaleh98/Machine-learning-projects/tree/main/1-%20nyc-taxi-trip-duration/Code)**
 
